@@ -145,6 +145,9 @@ main{
         text-align: left;
         padding: 4rem;
     }
+    .card-p{
+        margin-bottom: 10rem;
+    }
     .flex-row{
         display: flex;
     }

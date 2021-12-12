@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Screenshots\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="wwwroot\images\favicon-32x32.png" />
     <None Include="wwwroot\images\image-header-desktop.jpg" />
     <None Include="wwwroot\images\image-header-mobile.jpg" />
